@@ -1,0 +1,1 @@
+Explain how large language models work in simple terms. Focus on the transformer architecture, attention mechanisms, and how training differs from traditional software development. Keep the explanation accessible to someone with a basic programming background but no deep learning experience.

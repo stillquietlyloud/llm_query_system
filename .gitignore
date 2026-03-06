@@ -1,0 +1,36 @@
+# Python byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+
+# Distribution / build artifacts
+dist/
+build/
+*.spec
+*.egg-info/
+.eggs/
+
+# PyInstaller work files
+*.manifest
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Output folder (runtime-generated; not committed)
+output_result/
+
+# Editor / OS
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.idea/
+.vscode/
+
+# pytest cache
+.pytest_cache/
+.coverage
+htmlcov/
